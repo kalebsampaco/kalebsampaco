@@ -160,15 +160,8 @@ flowchart LR
 ---
 
 ## 📊 Estadísticas de GitHub
+<div align="center"> <img src="./profile-summary-card-output/tokyonight/3-stats.svg" height="170" alt="stats" /> <img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" height="170" alt="lenguajes" /> </div>
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=TU-USUARIO&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USUARIO&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="lenguajes" />
-
-<img src="https://streak-stats.demolab.com/?user=TU-USUARIO&theme=tokyonight&hide_border=true&background=0d1117" alt="streak" />
-
-</div>
 
 ---
 
