@@ -159,8 +159,16 @@ flowchart LR
 
 ---
 
-## 📊 Estadísticas de GitHub
-<div align="center"> <img src="./profile-summary-card-output/tokyonight/3-stats.svg" height="170" alt="stats" /> <img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" height="170" alt="lenguajes" /> </div>
+## 📊 GitHub en números
+
+<div align="center">
+
+![Seguidores](https://img.shields.io/github/followers/TU-USUARIO?style=for-the-badge&logo=github&color=2c5364)
+![Visitas](https://komarev.com/ghpvc/?username=TU-USUARIO&style=for-the-badge&color=0A66C2&label=VISITAS)
+
+<img src="https://ghchart.rshah.org/2c5364/TU-USUARIO" alt="Contribuciones" width="95%" />
+
+</div>
 
 
 ---
