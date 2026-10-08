@@ -9,6 +9,6 @@
   <rect width="1000" height="240" fill="url(#bg)"/>
   <path d="M0 190 C 150 150, 300 230, 500 190 S 850 150, 1000 195 L1000 240 L0 240 Z" fill="#ffffff" fill-opacity="0.06"/>
   <path d="M0 210 C 200 180, 350 240, 550 210 S 850 180, 1000 215 L1000 240 L0 240 Z" fill="#36BCF7" fill-opacity="0.12"/>
-  <text x="500" y="95" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="48" font-weight="700" fill="#ffffff">Hola, soy Tu Nombre 👋</text>
+  <text x="500" y="95" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="48" font-weight="700" fill="#ffffff">Hola, soy William Caleb Saenz Camacho 👋</text>
   <text x="500" y="140" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="20" fill="#9fd8f5" letter-spacing="1">Full Stack Developer · Cloud &amp; Serverless · Tech Lead</text>
 </svg>
